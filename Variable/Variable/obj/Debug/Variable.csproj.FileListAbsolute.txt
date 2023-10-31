@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\Variable\Variable\bin\Debug\Variable.exe.config
+D:\program\Learn_CSharp\Variable\Variable\bin\Debug\Variable.exe
+D:\program\Learn_CSharp\Variable\Variable\bin\Debug\Variable.pdb
+D:\program\Learn_CSharp\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\Variable\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\Variable\Variable\obj\Debug\Variable.exe
+D:\program\Learn_CSharp\Variable\Variable\obj\Debug\Variable.pdb
