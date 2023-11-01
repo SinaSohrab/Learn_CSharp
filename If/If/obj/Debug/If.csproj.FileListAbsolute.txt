@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\If\If\bin\Debug\If.exe.config
+D:\program\Learn_CSharp\If\If\bin\Debug\If.exe
+D:\program\Learn_CSharp\If\If\bin\Debug\If.pdb
+D:\program\Learn_CSharp\If\If\obj\Debug\If.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\If\If\obj\Debug\If.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\If\If\obj\Debug\If.exe
+D:\program\Learn_CSharp\If\If\obj\Debug\If.pdb
