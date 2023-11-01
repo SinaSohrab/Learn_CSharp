@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\Operators\Operators\bin\Debug\Operators.exe.config
+D:\program\Learn_CSharp\Operators\Operators\bin\Debug\Operators.exe
+D:\program\Learn_CSharp\Operators\Operators\bin\Debug\Operators.pdb
+D:\program\Learn_CSharp\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\Operators\Operators\obj\Debug\Operators.exe
+D:\program\Learn_CSharp\Operators\Operators\obj\Debug\Operators.pdb
