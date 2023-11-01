@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\while\while\bin\Debug\@while.exe.config
+D:\program\Learn_CSharp\while\while\bin\Debug\@while.exe
+D:\program\Learn_CSharp\while\while\bin\Debug\@while.pdb
+D:\program\Learn_CSharp\while\while\obj\Debug\while.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\while\while\obj\Debug\while.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\while\while\obj\Debug\@while.exe
+D:\program\Learn_CSharp\while\while\obj\Debug\@while.pdb
