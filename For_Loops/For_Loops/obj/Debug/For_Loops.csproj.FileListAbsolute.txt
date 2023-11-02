@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\For_Loops\For_Loops\obj\Debug\For_Loops.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\For_Loops\For_Loops\obj\Debug\For_Loops.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\For_Loops\For_Loops\obj\Debug\For_Loops.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\For_Loops\For_Loops\bin\Debug\For_Loops.exe.config
+D:\program\Learn_CSharp\For_Loops\For_Loops\bin\Debug\For_Loops.exe
+D:\program\Learn_CSharp\For_Loops\For_Loops\bin\Debug\For_Loops.pdb
+D:\program\Learn_CSharp\For_Loops\For_Loops\obj\Debug\For_Loops.exe
+D:\program\Learn_CSharp\For_Loops\For_Loops\obj\Debug\For_Loops.pdb
