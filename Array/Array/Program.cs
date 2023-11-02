@@ -38,7 +38,7 @@ namespace Array
                 is_iven[i] = sum;
             }
             Console.WriteLine(sum);
-            for (int i = is_iven.Length -1; i < number; i--)
+            for (int i = is_iven.Length - 1; i < number; i--)
             {
                 Console.WriteLine(is_iven[i]);
             }
