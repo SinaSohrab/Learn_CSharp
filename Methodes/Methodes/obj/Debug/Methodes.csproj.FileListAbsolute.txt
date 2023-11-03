@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\Methodes\Methodes\bin\Debug\Methodes.exe.config
+D:\program\Learn_CSharp\Methodes\Methodes\bin\Debug\Methodes.exe
+D:\program\Learn_CSharp\Methodes\Methodes\bin\Debug\Methodes.pdb
+D:\program\Learn_CSharp\Methodes\Methodes\obj\Debug\Methodes.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\Methodes\Methodes\obj\Debug\Methodes.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\Methodes\Methodes\obj\Debug\Methodes.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\Methodes\Methodes\obj\Debug\Methodes.exe
+D:\program\Learn_CSharp\Methodes\Methodes\obj\Debug\Methodes.pdb
