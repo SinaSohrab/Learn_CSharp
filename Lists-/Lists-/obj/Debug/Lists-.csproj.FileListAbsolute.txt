@@ -1,0 +1,8 @@
+D:\program\Learn_CSharp\Lists-\Lists-\bin\Debug\Lists-.exe.config
+D:\program\Learn_CSharp\Lists-\Lists-\bin\Debug\Lists-.exe
+D:\program\Learn_CSharp\Lists-\Lists-\bin\Debug\Lists-.pdb
+D:\program\Learn_CSharp\Lists-\Lists-\obj\Debug\Lists-.csproj.AssemblyReference.cache
+D:\program\Learn_CSharp\Lists-\Lists-\obj\Debug\Lists-.csproj.SuggestedBindingRedirects.cache
+D:\program\Learn_CSharp\Lists-\Lists-\obj\Debug\Lists-.csproj.CoreCompileInputs.cache
+D:\program\Learn_CSharp\Lists-\Lists-\obj\Debug\Lists-.exe
+D:\program\Learn_CSharp\Lists-\Lists-\obj\Debug\Lists-.pdb
